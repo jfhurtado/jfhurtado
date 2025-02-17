@@ -1,4 +1,4 @@
-# Juan F. Hurtado's GitHub Profile 🚀
+# Juan Hurtado's Profile 🚀
 
 ## Welcome 🎉
 Welcome to my GitHub! Here you’ll find my work in data engineering, machine learning, and MLOps.
